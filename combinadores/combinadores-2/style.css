@@ -1,0 +1,12 @@
+/* Hijo directo */
+
+/* div > p {
+    color: brown;
+} */
+
+/* 
+Hijos generales */
+
+div p {
+    color: brown;
+}

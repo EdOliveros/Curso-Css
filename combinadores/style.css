@@ -1,0 +1,17 @@
+
+
+/* Hermanos adyacentes */
+
+/* h2 + p {
+    color: red;
+} */
+
+
+
+/* Hermanos generales */
+
+h2 ~ p {
+    color: red;
+}
+
+
